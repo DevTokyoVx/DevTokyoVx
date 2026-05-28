@@ -6,7 +6,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Tokyo+%F0%9F%91%8B;Desenvolvedor+apaixonado+por+tech+%F0%9F%9A%80;Criador+da+Nazuna+Bot+%F0%9F%A4%96;Mantenedor+da+Vex+API+%E2%9A%A1)](https://git.io/typing-svg)
+<img src="https://github.com/DevTokyoVx.png" width="120" height="120" style="border-radius: 50%;" alt="DevTokyoVx" />
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Tokyo+%F0%9F%91%8B;Desenvolvedor+apaixonado+por+tech+%F0%9F%9A%80;Mantenedor+da+Vex+API+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,24 +20,16 @@
 
 ## 👤 Sobre mim
 
-```js
-const tokyo = {
-  nome:       "Luciano de Castro",
-  alias:      "DevTokyoVx",
-  idade:      17,
-  país:       "Brasil 🇧🇷",
-  hobbie:     "Adora animais 🐾",
-  trabalho:   "Gosta de trabalhar em equipe 🤝",
-  foco:       ["Node.js", "WhatsApp Bots", "APIs REST"],
-  projetos:   ["Nazuna Bot 🤖", "Vex API ⚡"],
-};
-```
+Olá! Sou o **Luciano de Castro**, também conhecido como **DevTokyoVx** tenho 17 anos, nasci e moro no Brasil 🇧🇷. Sou apaixonado por tecnologia, adoro animais 🐾 e gosto de trabalhar em equipe 🤝. Meu foco principal é desenvolvimento back-end com Node.js, criação de bots e APIs, mas também transito bem pelo front-end.
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos
 
-### 🤖 Nazuna Bot — Bot de WhatsApp
+<details>
+  <summary><strong>🤖 Nazuna Bot — Bot de WhatsApp</strong></summary>
+
+<br>
 
 <img src="https://img.shields.io/badge/WhatsApp-Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -54,9 +52,12 @@ Um bot completo para WhatsApp com dezenas de funcionalidades, pensado para ser s
   <img src="https://img.shields.io/badge/Ver%20Repositório-nazuna-181717?style=for-the-badge&logo=github" />
 </a>
 
----
+</details>
 
-### ⚡ Vex API — Para Desenvolvedores
+<details>
+  <summary><strong>⚡ Vex API — Para Desenvolvedores</strong></summary>
+
+<br>
 
 <img src="https://img.shields.io/badge/API-REST-FF6B35?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -74,6 +75,8 @@ Uma API pensada do zero para desenvolvedores — simples de integrar, escalável
 <a href="https://github.com/DevTokyoVx/vexapi-documentacao">
   <img src="https://img.shields.io/badge/Ver%20Documentação-vexapi--documentacao-181717?style=for-the-badge&logo=github" />
 </a>
+
+</details>
 
 ---
 
